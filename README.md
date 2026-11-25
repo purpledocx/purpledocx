@@ -1,7 +1,5 @@
 **Software Developer student.** Mostly work on the backend with Python and PostgreSQL, with React on the frontend. Slowly moving toward DevOps.
 
-<a href="https://www.linkedin.com/in/hardil-singh-245924372/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32"/></a>
-
 #### Stack
 
 <a href="https://skillicons.dev">
