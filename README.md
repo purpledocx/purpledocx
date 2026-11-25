@@ -3,7 +3,7 @@
 #### Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,js,ts,react,vite,tailwind,nodejs,docker,git,gitlab,arch,raspberrypi" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,js,ts,react,vite,tailwind,nodejs,docker,git,gitlab,bash,,raspberrypi" alt="Tech stack" />
 </a>
 
 <p align="left">
